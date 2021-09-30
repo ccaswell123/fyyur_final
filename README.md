@@ -3,9 +3,6 @@ Fyyur
 
 ## Path: /c/users/cc3486/full_stack/projects/01_fyyur/fyyur_starter_code
 ## Activate env: source/Scripts/activate
-## This comment is to test version control with git commit
-## test comment two
-## test comment three
 
 ## Introduction
 
